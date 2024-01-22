@@ -67,16 +67,14 @@ By implementing this automated medical data extraction system, we aim to streaml
    python main.py
    ```
 
-4. **Run uvicorn server in command prompt:**
+3. **Run uvicorn server in command prompt:**
    ```bash
    uvicorn main:app --reload
    ```
 
-3. **Access the API:**
+4. **Access the API:**
    - The API can be accessed at `http://localhost:8000`
 
 
-```bash
-pytest tests/
-```
+
 
