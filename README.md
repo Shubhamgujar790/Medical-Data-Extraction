@@ -1,9 +1,6 @@
 # Medical-Data-Extraction
 
 
-
-# Automated Medical Data Extraction System
-
 ## Overview
 
 Health insurance companies often face challenges in processing claims efficiently due to the manual extraction of information from patient details and prescriptions. This project aims to automate the data extraction process using Python and various technologies to enhance accuracy, reduce processing time, and minimize errors associated with manual entry.
