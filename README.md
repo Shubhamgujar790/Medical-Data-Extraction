@@ -1,5 +1,9 @@
 # Medical-Data-Extraction
 
+
+
+# Automated Medical Data Extraction System
+
 ## Overview
 
 Health insurance companies often face challenges in processing claims efficiently due to the manual extraction of information from patient details and prescriptions. This project aims to automate the data extraction process using Python and various technologies to enhance accuracy, reduce processing time, and minimize errors associated with manual entry.
@@ -48,3 +52,34 @@ Our solution involves the development of a Python-based program that automates t
 - **Error Mitigation:** Human validation ensures accuracy, reducing the likelihood of errors in extracted data.
 
 By implementing this automated medical data extraction system, we aim to streamline the claims processing workflow, making it more efficient, accurate, and cost-effective for health insurance companies.
+
+## How to Use
+
+
+
+1. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Run the Program:**
+   ```bash
+   python main.py
+   ```
+
+4. **run uvicorn server in command prompt:**
+   ```bash
+   uvicorn main:app  --reload
+   ```
+
+3. **Access the API:**
+   - The API can be accessed at `http://localhost:8000`
+
+## Testing
+
+Automated tests have been implemented using `pytest`. Run the tests using the following command:
+
+```bash
+pytest tests/
+```
+
