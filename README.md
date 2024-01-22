@@ -73,7 +73,7 @@ By implementing this automated medical data extraction system, we aim to streaml
    ```
 
 4. **Access the API:**
-   - The API can be accessed at `http://localhost:8000`
+   - The API can be accessed at `http://127.0.0.1:8000/`
 
 
 
