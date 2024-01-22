@@ -40,34 +40,6 @@ Our solution involves the development of a Python-based program that automates t
   
 - **FastAPI:** Enables the development of a robust and efficient API for seamless integration.
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/medical-data-extraction.git
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Program:**
-   ```bash
-   python main.py
-   ```
-
-4. **Access the API:**
-   - The API can be accessed at `http://localhost:8000` (or as specified in the documentation).
-
-## Testing
-
-Automated tests have been implemented using `pytest`. Run the tests using the following command:
-
-```bash
-pytest tests/
-```
-
 **Benefits:**
 - **Time Savings:** Automation significantly reduces the time required for data extraction, enabling faster claims processing.
   
