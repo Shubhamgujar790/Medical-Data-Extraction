@@ -67,7 +67,7 @@ By implementing this automated medical data extraction system, we aim to streaml
    python main.py
    ```
 
-4. **run uvicorn server in command prompt:**
+4. **Run uvicorn server in command prompt:**
    ```bash
    uvicorn main:app --reload
    ```
