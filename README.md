@@ -75,9 +75,6 @@ By implementing this automated medical data extraction system, we aim to streaml
 3. **Access the API:**
    - The API can be accessed at `http://localhost:8000`
 
-## Testing
-
-Automated tests have been implemented using `pytest`. Run the tests using the following command:
 
 ```bash
 pytest tests/
