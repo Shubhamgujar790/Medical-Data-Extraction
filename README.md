@@ -69,7 +69,7 @@ By implementing this automated medical data extraction system, we aim to streaml
 
 4. **run uvicorn server in command prompt:**
    ```bash
-   uvicorn main:app  --reload
+   uvicorn main:app --reload
    ```
 
 3. **Access the API:**
